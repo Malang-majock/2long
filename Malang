@@ -1,0 +1,7 @@
+A program that works a 4*4 square matix with three sub-programs 
+1. A sub-program that enters data 
+2. A sub-program that updates data 
+A. The main diameter and it's conversions to zeros 
+B. The data above the main diagonal and it's conversions to zeros
+C. The data under the head diameter and converted to zeros 
+3. A sub-program that prints the matrices before updating and after the update 
